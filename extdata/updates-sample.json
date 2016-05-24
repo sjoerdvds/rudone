@@ -1,0 +1,3 @@
+{"ok":true,"result":[{"update_id":973446435,
+"message":{"message_id":4,"from":{"id":12308450,"first_name":"Sjoerd","last_name":"van der Spoel","username":"sjoerdvds"},"chat":{"id":12308450,"first_name":"Sjoerd","last_name":"van der Spoel","username":"sjoerdvds","type":"private"},"date":1463485919,"text":"hello"}},{"update_id":973446436,
+"message":{"message_id":5,"from":{"id":12308450,"first_name":"Sjoerd","last_name":"van der Spoel","username":"sjoerdvds"},"chat":{"id":12308450,"first_name":"Sjoerd","last_name":"van der Spoel","username":"sjoerdvds","type":"private"},"date":1463485968,"text":"\/start","entities":[{"type":"bot_command","offset":0,"length":6}]}}]}
